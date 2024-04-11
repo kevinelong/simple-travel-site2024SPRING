@@ -17,3 +17,8 @@ img {
     margin: auto;
     text-align: center;
 }
+a{
+    text-decoration: none;
+    color: yellow;
+    padding: 1rem;
+}
