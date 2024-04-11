@@ -6,10 +6,16 @@ body{
     font-size: 4vw;
 }
 
-img {
-    width: 45vw;
+.masthead{
+    width: 100%;
+}
+
+.gallery img {
+    width: 40vw;
     height: 30vw;
     object-fit:cover;
+    border-radius: 1rem;
+    border: 0.5rem solid antiquewhite;
 }
 
 .gallery{
